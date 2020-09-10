@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%; height: 200px" />
+<h2 style="color: #2e6c80;">Guilherme Murari</h2>
 </div>  
   
 
