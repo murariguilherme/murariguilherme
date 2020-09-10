@@ -1,8 +1,3 @@
-<div align="center">
-<h2 style="color: #2e6c80;">Guilherme Murari</h2>
-</div>  
-  
-
 ### <div align="center">I'm Guilherme, 24 y.o and a passionate .NET Developer</div>  
   
 
