@@ -1,4 +1,4 @@
-<samp>Guilherme Murari</samp>
+<h2>Guilherme Murari</h2>
 <br/>
 <br/>
 ### <div align="center">I'm Guilherme, 24 y.o and a passionate .NET Developer</div>  
