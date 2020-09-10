@@ -3,6 +3,7 @@
 <br/>
 ### <div align="center">I'm Guilherme, 24 y.o and a passionate .NET Developer</div>  
   
+<br/>
 
 - 🔭 Currently looking for an oportunity to work with .NET Core in UK.  
   
