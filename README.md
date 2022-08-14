@@ -5,10 +5,10 @@
   
 <br/>
 
-- 🔭 Currently looking for an oportunity to work with .NET Core in UK.  
+- 🔭 Currently looking for an oportunity to work with .NET Core in UK
   
 
-- 🌱 I’m currently learning Devops and ripening about Microservices  
+- 🌱 Passionate about learning new techs 
   
 
 - 🚀 Fell free to add me in social medias, I love to do new friends! 😀  
